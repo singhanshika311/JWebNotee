@@ -64,3 +64,49 @@ Ensuring Maven packaging produces a runnable JAR
 
 Getting Java GUI to behave inside HTML canvas
 
+---
+
+🏆 Accomplishments
+
+Successfully ran a Swing app inside the browser
+
+No need to rewrite Java code
+
+Fully client-side execution
+
+Clean, minimal example perfect for Devpost
+
+Demonstrated real Java-to-Web modernization
+
+---
+
+📚 What We Learned
+
+How CheerpJ translates JVM bytecode into WebAssembly
+
+Differences between JVM runtime and browser runtime
+
+How to build & package Java apps with Maven
+
+Browser sandbox limitations for Java UIs
+
+Embedding Java applications in HTML pages
+
+---
+
+🔮 What's Next for JWebNote
+
+Dark Mode support
+
+Auto-save using IndexedDB
+
+Multiple notes workspace
+
+Deployment to GitHub Pages
+
+Keyboard shortcuts (Ctrl+S, Ctrl+O)
+
+PWA support for offline use
+
+Drag-and-drop file opening
+
