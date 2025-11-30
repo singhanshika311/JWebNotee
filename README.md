@@ -33,6 +33,8 @@ We created a classic Swing-based Notes app featuring:
 
 The application is packaged into a JAR.
 
+---
+
 📂 Project Structure
 JWebNote/
  ├── src/
@@ -45,6 +47,8 @@ JWebNote/
  │   └── JWebNote.jar
  ├── pom.xml
  └── README.md
+
+ ---
 
  😤 Challenges We Ran Into
 
