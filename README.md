@@ -57,7 +57,7 @@ async function runApp() {
 
 This runs the full Java application inside the browser.
 
-📂 Project Structure
+### 📂 Project Structure
 JWebNote/
  ├── src/
  │   └── main/
@@ -70,7 +70,7 @@ JWebNote/
  ├── pom.xml
  └── README.md
 
-▶️ How to Run the Project (Mac / Windows / Linux)
+### ▶️ How to Run the Project (Mac / Windows / Linux)
 Step 1 — Build JAR
 
 Run in IntelliJ terminal:
